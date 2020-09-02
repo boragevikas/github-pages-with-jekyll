@@ -1,13 +1,22 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+
+title: "Pi Assistant"
+theme: minima
+author: Team4
+email: boragevikast@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
+A Smart Navguide System for Visually Impaired people.
+Visually challenged people are facing many difficulties in there day to day life.
+ To perform simple tasks, visually impaired people have to rely on others.
+ Many embedded devices are available in the market which will help them in different task.
+ Our system helps inpaired people in their day to day activity like 
+give physical support by providing date and time in voice mode to the impaired peoples. 
+Our proposed smart calendar will perform the following tasks such as reading out current time, day of the week, date, setting alarm, remainders about the event and scheduling the tasks. 
+The proposed system is implemented by using raspberry pi, mic, display, speaker and camera.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+#twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  boragevikas # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
