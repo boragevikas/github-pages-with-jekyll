@@ -2,7 +2,7 @@
 ---
 title: "Pi Assistant"
 date: 2020-09-02
----
+
 theme: minima
 author: Team4
 email: boragevikast@gmail.com
@@ -22,3 +22,4 @@ The proposed system is implemented by using raspberry pi, mic, display, speaker 
 github_username:  boragevikas # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
